@@ -227,7 +227,7 @@ const indexTemplate = `<!-- HTML for static distribution bundle build -->
     @media (prefers-color-scheme: dark) {
   body {
       background: black;
-      filter: invert(88%) hue-rotate(180deg);
+      filter: invert(100%) hue-rotate(180deg);
   }
   body .microlight {
       filter: invert(100%) hue-rotate(180deg);
